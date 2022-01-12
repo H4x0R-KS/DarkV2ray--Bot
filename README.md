@@ -1,4 +1,4 @@
-# 📌DarkV2ray-Manager-Bot 0.2
+# 📌DarkV2ray-Manager-Bot 0.2.1
 
 * UPDATE 12/09/2021
 
@@ -40,7 +40,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DarkV2ray-Manager-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H4x0R-KS/DarkV2ray--Bot)
 
 
 ## :heavy_exclamation_mark: Requerimientos
@@ -52,4 +52,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
 
-**By: you tech 🇱🇰 **
+**By: KS Tech LK **
