@@ -37,7 +37,7 @@ echo ""
 echo -e "\033[1;32m• \033[1;32mTIP! \033[1;33mULTILIZE THE DARK THEME IN YOUR TERMINAL TO\033[0m"
 echo -e "\033[1;33m  A BETTER EXPERIENCE AND VISUALIZATION OF THE SAME!\033[0m"
 echo ""
-echo -e "\033[1;33m • \033[1;32m By=  🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥 \033[1;33m • \033[1;31m"
+echo -e "\033[1;33m • \033[1;32m By=  🔥⚡️⚡️ KS TECH⚡️⚡️🔥 \033[1;33m • \033[1;31m"
 echo ""
 
 red='\033[0;31m'
